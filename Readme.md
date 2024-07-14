@@ -1,43 +1,60 @@
-Commercial Software License
+## **Commercial Software License Agreement**
 
-This Commercial Software License Agreement (this “Agreement”) is a legal agreement between [Customer] (“You” or “Licensee”) and [Toledo Systems] (“Licensor”) made as of [purchase date] (the “Effective Date”).
+This Commercial Software License Agreement (hereinafter "Agreement") is a legal agreement made as of [purchase date] (the "Effective Date"), between [Licensee] ("You" or "Licensee") and [Licensor] ("Licensor").
 
 RECITALS
 
-A. Licensor, through its development of certain software (the “Software”), wishes to grant a commercial license to Licensee to use the Software in accordance with certain terms, conditions, and obligations set forth herein; and
+A. Licensor has developed certain software (the "Software") and wishes to grant Licensee a commercial license to use the Software in accordance with the terms, conditions, and obligations set forth herein.
 
-B. Licensee desires to obtain such a license and is willing to be bound by the terms, conditions, and obligations of this Agreement in order to achieve the mutual purposes represented herein.
+B. Licensee desires to obtain such a license and agrees to be bound by the terms, conditions, and obligations of this Agreement.
 
-NOW THEREFORE, in consideration of the respective covenants, promises and mutual agreements herein contained and other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+NOW THEREFORE, in consideration of the mutual covenants, promises, and agreements herein contained, and other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
 
-License Grant. Licensor hereby grants Licensee a non-exclusive and non-transferable license to commercially use the Software according to the following terms and conditions.
+#### **License Grant**
+Licensor hereby grants Licensee a non-exclusive, non-transferable license to commercially use the Software, subject to the terms and conditions of this Agreement.
 
-Detail. Licensee may not copy, transfer, sublicense, market, or otherwise distribute the Software in any manner that does not comply with this Agreement. Licensee may use the Software for its own commercial purposes, provided that such purposes shall not be in violation of any applicable laws. Licensee shall not allow any other person or entity to gain access to or utilize the Software or any part of the Software.
+#### **Use and Restrictions**
+Licensee may not copy, transfer, sublicense, market, or distribute the Software in any manner that does not comply with this Agreement. Licensee may use the Software for its own commercial purposes, provided such use does not violate any applicable laws. Licensee shall not allow any third party to access or utilize the Software or any part thereof.
 
-Intellectual Property Rights. The Software is owned by Licensor, and all intellectual property rights therein are and shall continue to be the exclusive property of Licensor. This Agreement in no way grants to Licensee intellectual property rights or any other ownership rights to the Software or any other derivative works created therefrom. 
+#### **License Key and Activation**
+Once activated, the license key ensures that the application will continue to function normally as long as it can connect to the license server. If the license key expires, the user will still be able to use the application, but will lose access to support, new installs and software updates. If updates are necessary due to API changes, the user will need to renew their license after expiration. The licensing system allows for up to three installations—either on different machines or on the same machine in case of a hard drive failure. Any attempt to circumvent the license system will result in deactivation of the license key.
 
-Warranty Disclaimer. Licensor makes no promises, warranties, or representations about the content, quality, functionality, or performance of the Software. Licensor expressly disclaims all warranties of any type, either express or implied, including without limitation any implied warranties of merchantability, non-infringement, title, or fitness for a particular purpose.
+#### **Intellectual Property Rights**
+The Software and all associated intellectual property rights are and shall remain the exclusive property of Licensor. This Agreement does not grant Licensee any intellectual property rights or any other ownership rights to the Software or any derivative works thereof.
 
-Indemnification. Licensee agrees to indemnify and hold Licensor harmless from any and all losses, costs, damages, or expenses, which an indemnified party may suffer, incur, pay, or be obligated to pay due to Licensee’s breach or violation of this Agreement.
+#### **Warranty Disclaimer**
+Licensor makes no representations or warranties regarding the content, quality, functionality, or performance of the Software. All warranties, whether express or implied, including but not limited to implied warranties of merchantability, non-infringement, title, or fitness for a particular purpose, are expressly disclaimed.
 
-Limitation of Liability. In no event shall Licensor or any of its licensors be liable to Licensee or any other person or entity for any indirect, incidental, special or consequential damages whatsoever, including but not limited to any lost profits, lost savings, lost data, or other incidental or consequential damages by any person or entity that arises out of or is related to the use of the Software.
+#### **Indemnification**
+Licensee agrees to indemnify and hold Licensor harmless from any and all losses, costs, damages, or expenses arising out of Licensee’s breach or violation of this Agreement.
 
-Termination. This Agreement is effective until terminated by either party. If Licensee breaches any of the terms or conditions of this Agreement, Licensor may terminate this Agreement at any time. Upon termination, Licensee shall immediately cease all use of the Software and destroy or return to Licensor all copies of the Software in Licensee’s possession or control.
+#### **Limitation of Liability**
+In no event shall Licensor or any of its licensors be liable for any indirect, incidental, special, or consequential damages, including but not limited to lost profits, lost savings, or lost data, arising out of or related to the use of the Software.
 
-Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the use of the Software and supersedes any and all prior written or oral representations, understandings, and agreements between the parties. Any subsequent modifications or amendments to this Agreement shall be in writing and signed by both parties.
+#### **Termination**
+This Agreement is effective until terminated by either party. Should Licensee breach any terms or conditions of this Agreement, Licensor may terminate the Agreement immediately. Upon termination, Licensee shall cease all use of the Software and destroy or return all copies in its possession or control.
 
-Governing Law. This Agreement shall be governed in all respects by the laws of [Florida].
+#### **Entire Agreement**
+This Agreement constitutes the entire agreement between the parties regarding the use of the Software and supersedes all prior written or oral agreements. Any amendments or modifications to this Agreement must be in writing and signed by both parties.
 
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the date and year first above written.
+#### **Governing Law**
+This Agreement shall be governed by the laws of [Florida].
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
 
-Licensor: [Toledo Systems LLC: toledo@toledosystems.net]
+Licensor:
+Toledo Systems LLC
+[Email: toledo@toledosystems.net]
 
-Licensee: [Customer]
+Licensee:
+[Customer]
 
 Thank you for downloading Toledo1
 Please consider a donation so this research may continue
 Bitcoin: https://toledolabs.io/pay/
 Paypal: toledo@toledosystems.net
+
+## Get your free 30 day license key at [toledo1.com](https://toledo1.com)
+#### Watch [Demo](https://youtu.be/lruqc635PfE?si=SryDmCEMO64dtXsA)
 
 #### Toledo1 Install instructions
 
