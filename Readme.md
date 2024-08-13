@@ -54,7 +54,7 @@ Bitcoin: https://toledolabs.io/pay/
 Paypal: toledo@toledosystems.net
 
 ## Get your free 30 day license key at [toledo1.com](https://toledo1.com)
-#### Watch [Demo](https://youtu.be/lruqc635PfE?si=SryDmCEMO64dtXsA)
+#### Watch [Demo](https://youtu.be/hAfa3jl930A)
 
 #### Toledo1 Install instructions
 
