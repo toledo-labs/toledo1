@@ -4,9 +4,9 @@ Toledo1 is a prototype design for an AI web browser, where the URL points to LLM
 #### Watch [Demo](https://rumble.com/v5bpmh9-toledo1-a-multi-llm-app-can-now-run-any-anthropic-api-model.html)
 
 #### Supported Systems
-- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.3.0/windows-inno-installer-toledo1-v1.3.0-promo.exe)
-- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.3.0/linux-flatpak-installer-toledo1-v1.3.0-promo.zip)
-- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.3.0/macos-dmg-installer-toledo1-v1.3.0-promo.dmg)
+- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.3.1/windows-inno-installer-toledo1-v1.3.1-promo.exe)
+- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.3.1/linux-flatpak-installer-toledo1-v1.3.1-promo.zip)
+- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.3.1/macos-dmg-installer-toledo1-v1.3.1-promo.dmg)
 
 
 Windows installer tested on Windows 11,
