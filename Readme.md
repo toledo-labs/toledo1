@@ -1,12 +1,12 @@
 Toledo1 is a prototype design for an AI web browser, where the URL points to LLM inference—a direct chat line to any LLM on the public internet, private cloud or local desktop. A paradigm shift in web search.
 
 ### Get your free 30 day license key at [toledo1.com](https://toledo1.com)
-#### Watch [Demo](https://rumble.com/v5efzab-humans-dont-need-to-code-anymore.html)
+#### Watch [Demo](https://rumble.com/v5ekh9h-humans-dont-need-to-code-anymore-using-toledo1.html)
 
 #### Supported Systems
-- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.4.0/windows-inno-installer-toledo1-v1.4.0-promo.exe)
-- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.4.0/linux-flatpak-installer-toledo1-v1.4.0-promo.zip)
-- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.4.0/macos-dmg-installer-toledo1-v1.4.0-promo.dmg)
+- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.4.2/windows-inno-installer-toledo1-v1.4.2-promo.exe)
+- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.4.2/linux-flatpak-installer-toledo1-v1.4.2-promo.zip)
+- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.4.2/macos-dmg-installer-toledo1-v1.4.2-promo.dmg)
 
 
 Windows installer tested on Windows 11,
