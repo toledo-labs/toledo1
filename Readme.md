@@ -1,4 +1,4 @@
-Toledo1 is a prototype design for an AI web browser, where the URL points to LLM inference—a direct chat line to any LLM on the public internet, private cloud or local desktop. A paradigm shift in web search.
+Toledo1 is a prototype design for an LLM browser, where the URL points to LLM inference—a direct chat line to any LLM on the public internet, private cloud or local desktop. A paradigm shift in web search, where users pay per query with privacy.
 
 ### Get your free 30 day license key at [toledo1.com](https://toledo1.com)
 #### Watch [Demo](https://rumble.com/v5ekh9h-humans-dont-need-to-code-anymore-using-toledo1.html)
