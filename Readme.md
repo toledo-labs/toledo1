@@ -9,10 +9,10 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 - [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.0/linux-flatpak-installer-toledo1-v1.5.0.zip)
 - [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.5.0/macos-dmg-installer-toledo1-v1.5.0.dmg)
 
-
-Windows installer tested on Windows 11,
-Linux Flatpak installer tested on Ubuntu 22.04 and RedHat 9.4,
-macOS installer tested on Sonoma 14.6
+#### List of tested Operating Systems
+- **Windows installer** tested on Windows 11,
+- **Linux Flatpak installer** tested on Ubuntu 22.04 and RedHat 9.4,
+- **macOS installer** tested on Sonoma 14.6
 
 ![chat](https://toledo1.com/wp-content/uploads/2024/09/toledo1_macOS-1-1536x766.png)
 ![settings](https://toledo1.com/wp-content/uploads/2024/09/toledo1_macOS2-1536x766.png)
