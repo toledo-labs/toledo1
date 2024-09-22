@@ -54,3 +54,12 @@ because there isn't a remote hosted package to pull into the system.
    ```bash
    $ flatpak uninstall com.toledo1.Toledo1
    ```
+   
+#### List of tested Inference Providers
+- [OpenAI](openai.com)
+- [Anthropic](anthropic.com)
+- [Huggingface Endpoints](https://huggingface.co/)
+- [Nvidia Inference Microservices](nvidia.com)
+- [Llama.cpp](https://github.com/ggerganov/llama.cpp/blob/master/examples/server/README.md)
+- [LambdaLabs](lambdalabs.com)
+
