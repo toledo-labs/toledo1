@@ -14,9 +14,8 @@ Windows installer tested on Windows 11,
 Linux Flatpak installer tested on Ubuntu 22.04 and RedHat 9.4,
 macOS installer tested on Sonoma 14.6
 
-![settings](https://toledo1.com/wp-content/uploads/2024/09/toledo1_macOS2-1536x766.png)
 ![chat](https://toledo1.com/wp-content/uploads/2024/09/toledo1_macOS-1-1536x766.png)
-
+![settings](https://toledo1.com/wp-content/uploads/2024/09/toledo1_macOS2-1536x766.png)
 
 All installers are single click except the Linux Flatpak which requires an install script to run without sudo. 
 The script will build and install the flatpak package locally using artifacts
