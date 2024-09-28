@@ -1,21 +1,18 @@
-
-Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat line to any LLM on the public internet, private cloud, or local desktop running OpenAI compatible inference. A paradigm shift in web search, where users pay per query with confidentiality.
+Toledo1 is a prototype design for an AI web browser, where the URL points to LLM inference—a direct chat line to any LLM on the public internet, private cloud or local desktop. A paradigm shift in web search.
 
 ### Get your free 30 day license key at [toledo1.com](https://toledo1.com)
-#### [See demo](https://toledo1.com/wp-content/uploads/2024/09/toledo1_roadmap.mp4)
+#### Watch [Demo](https://rumble.com/v5ekh9h-humans-dont-need-to-code-anymore-using-toledo1.html)
 
 #### Supported Systems
-- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.0/windows-inno-installer-toledo1-v1.5.0.exe)
-- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.0/linux-flatpak-installer-toledo1-v1.5.0.zip)
-- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.5.0/macos-dmg-installer-toledo1-v1.5.0.dmg)
+- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.2/windows-inno-installer-toledo1-v1.5.2.exe)
+- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.2/linux-flatpak-installer-toledo1-v1.5.2.zip)
+- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.5.2/macos-dmg-installer-toledo1-v1.5.2.dmg)
 
-#### List of tested Operating Systems
-- **Windows installer** tested on Windows 11,
-- **Linux Flatpak installer** tested on Ubuntu 22.04 and RedHat 9.4,
-- **macOS installer** tested on Sonoma 14.6
 
-![chat](https://toledo1.com/wp-content/uploads/2024/09/toledo1_macOS-1-1536x766.png)
-![settings](https://toledo1.com/wp-content/uploads/2024/09/toledo1_macOS2-1536x766.png)
+Windows installer tested on Windows 11,
+Linux Flatpak installer tested on Ubuntu 22.04 and RedHat 9.4,
+macOS installer tested on Sonoma 14.6
+
 
 All installers are single click except the Linux Flatpak which requires an install script to run without sudo. 
 The script will build and install the flatpak package locally using artifacts
@@ -54,12 +51,3 @@ because there isn't a remote hosted package to pull into the system.
    ```bash
    $ flatpak uninstall com.toledo1.Toledo1
    ```
-   
-#### List of tested Inference Providers
-- [OpenAI](openai.com)
-- [Anthropic](anthropic.com)
-- [Huggingface Endpoints](https://huggingface.co/)
-- [Nvidia Inference Microservices](nvidia.com)
-- [Llama.cpp](https://github.com/ggerganov/llama.cpp/blob/master/examples/server/README.md)
-- [LambdaLabs](lambdalabs.com)
-
