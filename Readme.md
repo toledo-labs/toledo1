@@ -2,7 +2,7 @@
 Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat line to any LLM on the public internet, private cloud, or local desktop running OpenAI compatible inference. A paradigm shift in web search, where users pay per query with confidentiality.
 
 ### Get your free 30 day license key at [toledo1.com](https://toledo1.com)
-#### [See demo](https://toledo1.com/wp-content/uploads/2024/09/toledo1_roadmap.mp4)
+#### [See what sets Toledo1 apart from the other web LLM apps](https://toledo1.com/wp-content/uploads/2024/10/toledo1-realtime-demo.mp4)
 
 #### Supported Systems
 - [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.3/windows-inno-installer-toledo1-v1.5.3.exe)
@@ -14,8 +14,8 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 - **Linux Flatpak installer** tested on Ubuntu 22.04 and RedHat 9.4
 - **macOS installer** tested on Sonoma 14.6
 
-![chat](https://toledo1.com/wp-content/uploads/2024/09/toledo1_macOS-1-1536x766.png)
-![settings](https://toledo1.com/wp-content/uploads/2024/09/toledo1_macOS2-1536x766.png)
+![chat](https://toledo1.com/wp-content/uploads/2024/10/Screenshot-from-2024-10-03-21-20-07.png)
+![settings](https://toledo1.com/wp-content/uploads/2024/10/Screenshot-from-2024-10-03-21-26-35.png)
 
 All installers are single click except the Linux Flatpak which requires an install script to run without sudo. 
 The script will build and install the flatpak package locally using artifacts
