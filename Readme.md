@@ -5,9 +5,9 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 #### [See demo](https://toledo1.com/wp-content/uploads/2024/09/toledo1_roadmap.mp4)
 
 #### Supported Systems
-- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.2/windows-inno-installer-toledo1-v1.5.2.exe)
-- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.2/linux-flatpak-installer-toledo1-v1.5.2.zip)
-- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.5.2/macos-dmg-installer-toledo1-v1.5.2.dmg)
+- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.3/windows-inno-installer-toledo1-v1.5.3.exe)
+- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.3/linux-flatpak-installer-toledo1-v1.5.3.zip)
+- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.5.3/macos-dmg-installer-toledo1-v1.5.3.dmg)
 
 #### List of tested Operating Systems
 - **Windows installer** tested on Windows 11
@@ -61,5 +61,9 @@ because there isn't a remote hosted package to pull into the system.
 - [Huggingface Endpoints](https://huggingface.co/)
 - [Nvidia Inference Microservices](nvidia.com)
 - [Llama.cpp](https://github.com/ggerganov/llama.cpp/blob/master/examples/server/README.md)
+- [Deepinfra](https://deepinfra.com/)
+- [Sambanova](https://sambanova.ai/)
+- [Openrouter](https://openrouter.ai/)
 - [LambdaLabs](lambdalabs.com)
+
 
