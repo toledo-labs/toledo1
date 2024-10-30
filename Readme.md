@@ -14,7 +14,7 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 - **Linux Flatpak installer** tested on Ubuntu 22.04 and RedHat 9.4
 - **macOS installer** tested on Sonoma 14.6
 
-![toledo1_demo](https://toledo1.com/wp-content/uploads/2024/10/toledo1_demo_optimized.gif)
+![toledo1_demo](https://toledo1.com/wp-content/uploads/2024/10/toledo1_btc_proj.gif)
 
 All installers are single click except the Linux Flatpak which requires an install script to run without sudo. 
 The script will build and install the flatpak package locally using artifacts
