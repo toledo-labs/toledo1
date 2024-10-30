@@ -1,13 +1,13 @@
 
-Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat line to any LLM on the public internet, private cloud, or local desktop running OpenAI compatible inference. A paradigm shift in web search, where users pay per query with confidentiality. Its real-time capability to chain multiple models on context using presets makes it a [manual compound AI system](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/), a truth finder.
+Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat line to any LLM on the public internet, private cloud, or local desktop running OpenAI compatible inference. A paradigm shift in web search, where users pay per query with confidentiality. Its real-time capability to chain multiple models on context using presets makes it a [manual compound AI system](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/), a truth machine.
 
 ### Get your free 30 day license key at [toledo1.com](https://toledo1.com)
 #### [See what sets Toledo1 apart from the other web LLM apps](https://toledo1.com/wp-content/uploads/2024/10/toledo1-realtime-demo.mp4)
 
 #### Supported Systems
-- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.3/windows-inno-installer-toledo1-v1.5.3.exe)
-- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.5.3/linux-flatpak-installer-toledo1-v1.5.3.zip)
-- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.5.3/macos-dmg-installer-toledo1-v1.5.3.dmg)
+- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.6.0/windows-inno-installer-toledo1-v1.6.0.exe)
+- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.6.0/linux-flatpak-installer-toledo1-v1.6.0.zip)
+- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.6.0/macos-dmg-installer-toledo1-v1.6.0.dmg)
 
 #### List of tested Operating Systems
 - **Windows installer** tested on Windows 11
@@ -55,14 +55,16 @@ because there isn't a remote hosted package to pull into the system.
    ```
    
 #### List of tested Inference Providers
-- [OpenAI](openai.com)
-- [Anthropic](anthropic.com)
+- [OpenAI](https://openai.com)
+- [Anthropic](https://anthropic.com)
+- [Perplexity.ai](https://perplexity.ai)
+- [Cerebras](https://cloud.cerebras.ai/)
 - [Huggingface Endpoints](https://huggingface.co/)
 - [Nvidia Inference Microservices](nvidia.com)
 - [Llama.cpp](https://github.com/ggerganov/llama.cpp/blob/master/examples/server/README.md)
 - [Deepinfra](https://deepinfra.com/)
 - [Sambanova](https://sambanova.ai/)
 - [Openrouter](https://openrouter.ai/)
-- [LambdaLabs](lambdalabs.com)
+- [LambdaLabs](https://lambdalabs.com)
 
 
