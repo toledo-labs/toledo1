@@ -9,6 +9,27 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 - [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.7.0/linux-flatpak-installer-toledo1-v1.7.0.zip)
 - [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.7.0/macos-dmg-installer-toledo1-v1.7.0.dmg)
 
+## Toledo1 Features
+* 📱 **Client-Side Search:** Powerful native desktop application that integrates seamlessly with your workflow. Search and process information directly from your PC with simple one-click installation
+
+* ⚙️ **Easy Installation:** Get started in minutes - Toledo1 is ready to use immediately after license key activation. No complex setup or configuration required
+
+* ❌ **No Subscriptions:** Transparent pay-per-query pricing model with enterprise-grade security. Only pay for what you actually use with our confidential API system
+
+* 🔧 **AI Agent:** Advanced RAG (Retrieval-Augmented Generation) pipeline with customizable LLM chains. Future updates will include automated chain building and an intelligent Auto-mode in Settings
+
+* 💡 **Dynamic Code Copilot:** Leverage specialized code LLMs with customizable presets for diverse programming solutions. Perfect for feature development, debugging, and application architecture
+
+* 📊 **Real Time Data:** Access live market data, weather information, and current events through integration with Perplexity.ai's advanced Sonar models. Stay updated with accurate, real-time information
+
+* 📁 **History Management:** Seamlessly transfer your chat history between different LLM systems while preserving context, including files and images. Never lose important conversations
+
+* 🔄 **Multi-Purpose Assistant:** Customize Toledo1's behavior and expertise through flexible system settings. Adapt the AI to serve your specific professional or personal needs
+
+* 📂 **File & Image Processing:** Effortlessly process multiple file formats including text, PDF, and images. Advanced LLM processing helps extract and analyze information from your documents
+
+* 🔒 **Local Inference:** Maintain complete privacy with on-device processing using llama.cpp. Keep sensitive data secure while enjoying powerful AI capabilities locally
+
 #### List of tested Operating Systems
 - **Windows installer** tested on Windows 11
 - **Linux Flatpak installer** tested on Ubuntu 22.04 and RedHat 9.4
@@ -53,7 +74,6 @@ because there isn't a remote hosted package to pull into the system.
    ```bash
    $ flatpak uninstall com.toledo1.Toledo1
    ```
-   
 #### List of tested Inference Providers
 - [OpenAI](https://openai.com)
 - [Anthropic](https://anthropic.com)
