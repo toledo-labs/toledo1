@@ -42,6 +42,8 @@ The script will build and install the flatpak package locally using artifacts
 because there isn't a remote hosted package to pull into the system.
 **See instructions below**
 
+[Toledo1 Documentation](https://toledo1.com/quick-start/)
+
 #### Linux Flatpak Install Instructions
 
 1. (Optional) Add your API key to the operating system environment with name "OPENAI_API_KEY" 
