@@ -1,5 +1,5 @@
 
-Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat line to any LLM on the public internet, private cloud, or local desktop running OpenAI compatible inference. A paradigm shift in web search, where users pay per query with confidentiality. Its real-time capability to chain multiple models on context using presets makes it a [manual compound AI system](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/), a truth finder.
+Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat line to any LLM on the public internet, private cloud, or local desktop running OpenAI compatible inference. A paradigm shift in web search, where users pay per query with confidentiality. Its real-time capability to chain multiple models on context using presets makes it a [manual compound AI system](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/), a truth machine.
 
 ### Get your free 30 day license key at [toledo1.com](https://toledo1.com)
 #### [See what sets Toledo1 apart from the other web LLM apps](https://toledo1.com/wp-content/uploads/2024/07/toledo1_demo_5.mp4)
@@ -18,7 +18,7 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 
 * ❌ **No Subscriptions:** Transparent pay-per-query pricing model with enterprise-grade security. Only pay for what you actually use with our confidential API system
 
-* 🔧 **AI Agent:** Advanced RAG (Retrieval-Augmented Generation) pipeline with customizable LLM chains. Future updates will include automated chain building and an intelligent Auto-mode in Settings
+* 🤖 **AI Agent:** Advanced RAG (Retrieval-Augmented Generation) pipeline with customizable LLM chains. Future updates will include automated chain building and an intelligent Auto-mode in Settings
 
 * 💡 **Dynamic Code Copilot:** Leverage specialized code LLMs with customizable presets for diverse programming solutions. Perfect for feature development, debugging, and application architecture
 
