@@ -3,9 +3,9 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 
 ### Get your free 30 day license key at [toledo1.com](https://toledo1.com)
 #### Supported Systems
-- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.8.0/windows-inno-installer-toledo1-v1.8.0.exe)
-- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.8.0/linux-flatpak-installer-toledo1-v1.8.0.zip)
-- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.8.0/macos-dmg-installer-toledo1-v1.8.0.dmg)
+- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.8.1/windows-inno-installer-toledo1-v1.8.1.exe)
+- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.8.1/linux-flatpak-installer-toledo1-v1.8.1.zip)
+- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.8.1/macos-dmg-installer-toledo1-v1.8.1.dmg)
 
 ![toledo1_demo](https://toledo1.com/wp-content/uploads/2024/11/toledo1_demo_bitcoin_analysis.gif)
 
@@ -77,6 +77,7 @@ because there isn't a remote hosted package to pull into the system.
 #### List of tested Inference Providers
 - [OpenAI](https://openai.com)
 - [Anthropic](https://anthropic.com)
+- [Grok](https://x.ai/api)
 - [Perplexity.ai](https://perplexity.ai)
 - [Cerebras](https://cloud.cerebras.ai/)
 - [Huggingface Endpoints](https://huggingface.co/)
