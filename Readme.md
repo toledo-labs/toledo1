@@ -43,22 +43,12 @@ because there isn't a remote hosted package to pull into the system.
 [Toledo1 Documentation](https://toledo1.com/quick-start/)
 
 #### Linux Flatpak Install Instructions
+##### Notice:
+Linux flatpak runtime has been updated to 24.04, therefore change org.freedesktop.Sdk and org.freedesktop.Platform to 24.04 on your system. This may require you to delete all versions of org.freedesktop.Sdk and org.freedesktop.Platform on your system, then reinstall by running the toledo1 flatpak installer script.
+##### Prerequiste
+Have flatpak installed on your system, the installer script will try to install it if not detected
 
-1. (Optional) Add your API key to the operating system environment with name "OPENAI_API_KEY" 
-
-   Example: add the below line into the user ~/.bashrc with a text editor:
-   
-   ```bash
-   export OPENAI_API_KEY="API KEY from your inference server"
-   ```  
-    
-   Save ~/.bashrc then exit and source it:
-   
-   ```bash
-   $ source ~/.bashrc
-   ```   
-   
-2. Install Toledo1 
+1. Install Toledo1 
 
    ```bash
    # Do not run with sudo!
