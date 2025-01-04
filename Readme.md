@@ -32,7 +32,7 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 
 #### List of tested Operating Systems
 - **Windows installer** tested on Windows 11
-- **Linux Flatpak installer** tested on Ubuntu 22.04 and RedHat 9.4
+- **Linux Flatpak installer** tested on Ubuntu 22.04-24.04 and RedHat 9.4
 - **macOS installer** tested on Sonoma 14.6
   
 All installers are single click except the Linux Flatpak which requires an install script to run without sudo. 
@@ -44,7 +44,7 @@ because there isn't a remote hosted package to pull into the system.
 
 #### Linux Flatpak Install Instructions
 ##### Notice:
-Linux flatpak runtime has been updated to 24.04, therefore change org.freedesktop.Sdk and org.freedesktop.Platform to 24.04 on your system. This may require you to delete all versions of org.freedesktop.Sdk and org.freedesktop.Platform on your system, then reinstall by running the toledo1 flatpak installer script.
+Linux flatpak runtime has been updated to 24.08, therefore change org.freedesktop.Sdk and org.freedesktop.Platform to 24.08 on your system. This may require you to delete all versions of org.freedesktop.Sdk and org.freedesktop.Platform on your system, then reinstall by running the toledo1 flatpak installer script.
 ##### Prerequiste
 Have flatpak installed on your system, the installer script will try to install it if not detected
 
