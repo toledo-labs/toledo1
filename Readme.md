@@ -3,11 +3,11 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 
 ### Get your free 30 day license key at [toledo1.com](https://toledo1.com)
 #### Supported Systems
-- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.8.4/windows-inno-installer-toledo1-v1.8.4.exe)
-- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.8.4/linux-flatpak-installer-toledo1-v1.8.4.zip)
-- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.8.4/macos-dmg-installer-toledo1-v1.8.4.dmg)
+- [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.8.5/windows-inno-installer-toledo1-v1.8.5.exe)
+- [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.8.5/linux-flatpak-installer-toledo1-v1.8.5.zip)
+- [macOS](https://github.com/toledo-labs/toledo1/releases/download/v1.8.5/macos-dmg-installer-toledo1-v1.8.5.dmg)
 
-![toledo1_demo](https://toledo1.com/wp-content/uploads/2024/11/toledo1_demo_bitcoin_analysis.gif)
+![toledo1_demo](https://toledo1.com/wp-content/uploads/2025/01/toledo1_demo_01032025_optimized.gif)
 
 ### Toledo1 Features
 * 📱 **Client-Side Search:** Powerful native desktop application that integrates seamlessly with your workflow. Search and process information directly from your PC with simple one-click installation
