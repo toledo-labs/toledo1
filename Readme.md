@@ -1,7 +1,6 @@
 ![toledo systems](https://toledo1.com/wp-content/uploads/2024/09/social_media_all_santa_maria.png)
 Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat line to any LLM on the public internet, private cloud, or local desktop running OpenAI compatible inference. A paradigm shift in web search, where users pay per query with confidentiality. Its real-time capability to chain multiple models on context using presets makes it a [manual compound AI system](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/), a truth machine.
 
-### Get your free 30 day license key at [toledo1.com](https://toledo1.com)
 #### Supported Systems
 - [Windows x64](https://github.com/toledo-labs/toledo1/releases/download/v1.8.7/windows-inno-installer-toledo1-v1.8.7.exe)
 - [Linux x64](https://github.com/toledo-labs/toledo1/releases/download/v1.8.7/linux-flatpak-installer-toledo1-v1.8.7.zip)
