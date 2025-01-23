@@ -27,7 +27,7 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 
 * 📂 **File & Image Processing:** Effortlessly process multiple file formats including text, PDF, and images. Advanced LLM processing helps extract and analyze information from your documents
 
-* 🔒 **Local Inference:** Maintain complete privacy with on-device processing using llama.cpp. Keep sensitive data secure while enjoying powerful AI capabilities locally
+* 🔒 **Local Inference:** Maintain complete privacy with on-device processing using [ollama](https://toledo1.com/local-inference-tutorial-with-ollama/). Keep sensitive data secure while enjoying powerful AI capabilities locally
 
 #### List of tested Operating Systems
 - **Windows installer** tested on Windows 11
