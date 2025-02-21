@@ -43,7 +43,7 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 
 Licensor:
 Toledo Systems LLC
-[Email: toledo@toledosystems.net]
+[Email: info@toledosystems.net]
 
 Licensee:
 [Customer]
