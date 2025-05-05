@@ -18,7 +18,7 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 
 * 🤖 **AI Agent:** Advanced RAG (Retrieval-Augmented Generation) pipeline with customizable LLM chains. Future updates will include automated chain building and an intelligent Auto-mode in Settings
 
-* 💡 **Dynamic Code Copilot:** Leverage specialized code LLMs with customizable presets for diverse programming solutions. Perfect for feature development, debugging, and application architecture
+* 💡 **Dynamic Code Copilot:** Our heavy-duty context management system supports never-ending chat threads, making it ideal for edge function development in the cloud
 
 * 📊 **Real Time Data:** Access live market data, weather information, and current events through integration with Perplexity.ai's advanced Sonar models. Stay updated with accurate, real-time information
 
@@ -26,7 +26,7 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 
 * 🔄 **Multi-Purpose Assistant:** Customize Toledo1's behavior and expertise through flexible system settings. Adapt the AI to serve your specific professional or personal needs
 
-* 📂 **File & Image Processing:** Effortlessly process multiple file formats including text, PDF, and images. Advanced LLM processing helps extract and analyze information from your documents
+* 📂 **File & Image Processing:** Effortlessly process multiple file formats including text, PDF, and images. Advanced LLM processing helps extract and analyze information from your documents to include images in PDFs
 
 * 🔒 **Local Inference:** Maintain complete privacy with on-device processing using [ollama](https://toledo1.com/local-inference-tutorial-with-ollama/). Keep sensitive data secure while enjoying powerful AI capabilities locally
 
@@ -35,26 +35,19 @@ Toledo1 is an LLM browser where the URL points to LLM inference, a direct chat l
 - **Linux Flatpak installer** tested on Ubuntu 22.04-24.04 and RedHat 9.4
 - **macOS installer** tested on Sonoma 14.6
 
-macOS users might need to unquarantine Toledo1 before running, please see this post for details: [macOS Guarantines Toledo1](https://toledo1.com/macos-quarantines-toledo1/)
-  
-All installers are single click except the Linux Flatpak which requires an install script to run without sudo. 
-The script will build and install the flatpak package locally using artifacts
-because there isn't a remote hosted package to pull into the system.
+All installers are single click except the Linux Flathub install which requires a bash terminal. 
 **See instructions below**
 
 [Toledo1 Documentation](https://toledo1.com/quick-start/)
 
-#### Linux Flatpak Install Instructions
-##### Notice:
-Linux flatpak runtime has been updated to 24.08, therefore change org.freedesktop.Sdk and org.freedesktop.Platform to 24.08 on your system. This may require you to delete all versions of org.freedesktop.Sdk and org.freedesktop.Platform on your system, then reinstall by running the toledo1 flatpak installer script.
-##### Prerequiste
-Have flatpak installed on your system, the installer script will try to install it if not detected
+#### Linux Flathub Install Instructions
+Have flatpak installed on your system
 
 1. Install Toledo1 
 
    ```bash
    # Do not run with sudo!
-   $ ./install_toledo1_with_flatpak.sh
+   $ flatpak install flathub com.toledo1.Toledo1
    ```
    
 3. Search for Toledo1 and pin it to the taskbar
@@ -69,6 +62,7 @@ Have flatpak installed on your system, the installer script will try to install 
 #### List of tested Inference Providers
 - [OpenAI](https://openai.com)
 - [Anthropic](https://anthropic.com)
+- [Gemini](https://aistudio.google.com/apikey)
 - [Grok](https://x.ai/api)
 - [Perplexity.ai](https://perplexity.ai)
 - [Cerebras](https://cloud.cerebras.ai/)
